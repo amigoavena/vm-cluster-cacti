@@ -1,4 +1,4 @@
 vm-cluster-cacti
 ================
 
-VM Cluster Monitoring Cacti Template
+VMWare Cluster Monitoring Cacti Template
